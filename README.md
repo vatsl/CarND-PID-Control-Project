@@ -1,4 +1,4 @@
-# CarND-Controls-PID
+# PID controller
 
 ---
 
